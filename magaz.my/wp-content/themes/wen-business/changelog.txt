@@ -1,0 +1,9 @@
+== Version 1.0.2 ==
+* Added attribution to TGM
+
+== Version 1.0.1 ==
+* Remove unnecessary files
+* Minor styling fixes
+
+== Version 1.0.0 ==
+* Initial release

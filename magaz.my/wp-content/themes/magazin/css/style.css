@@ -1,0 +1,150 @@
+body {
+    background-image: url(smoke.jpg);
+    background-repeat: repeat-x;
+    
+}
+.nav-justified {
+    font-size: 2em;
+    
+}
+
+.header-info {
+    height: 250px;
+}
+
+h1 {
+    font-size: 9em;
+    
+}
+
+.kontakt {
+    font-size: 2em;
+    list-style-type: none;
+    
+}
+
+
+
+.nav-justified a{
+    color: black;
+}
+
+
+
+
+
+.header-info div {
+    margin-top: 25px;
+    padding-left: 35px;
+}
+
+
+.examplecarusel h2{
+    margin: 0;     
+    color: #666;
+    padding-top: 0px;
+    font-size: 52px;
+    font-family: "trebuchet ms", sans-serif;    
+}
+.item{
+    background: #333;    
+    text-align: center;
+    height: 600px !important;
+    margin-top: 50px;
+}
+.carousel2{
+	margin: 20px 0;
+    
+}
+.control-buttons{
+	text-align:center;
+}
+.examplecarusel{
+	margin: 10px;
+    
+} 
+.examplecarusel h3 {
+    font-size: 10em;
+}
+.examplecarusel p {
+    font-size: 5em;
+}
+
+.btn-success {
+     width: 250px;
+}
+
+
+
+
+.saitbar {
+    list-style-type: none;
+    padding-top: 100px;
+    font-size: 2em;
+    text-align: center;
+    color: darkseagreen;
+    
+}
+
+
+.basket {
+    font-size: 3em;
+    margin-top: 100px;
+    
+}
+.basket smal {
+    color: darkgray;
+  
+    
+}
+
+.col-lg-8 p {
+    font-size: 2em;
+    color: darkorange;
+}
+
+.footer {
+   margin-top: 100px;
+    
+    
+}
+
+
+.content {
+    height: 1800px;
+}
+
+.kontakt-footer {
+    font-size: 2em;
+    list-style-type: none;
+    
+}
+.social {
+    padding-top: 40px;
+    font-size: 2em;
+    list-style-type: none;
+}
+
+.head {
+    height: -400px;
+}
+
+.content-giga {
+    margin-top: 200px;
+}
+
+
+
+.form-inline {
+    padding-top: -30px;
+}
+
+
+
+.info {
+    padding-top: 30px;
+}
+
+.col-lg-6 {
+    padding-top: 80px;
+}

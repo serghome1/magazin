@@ -1,0 +1,191 @@
+/*
+Theme Name: Business Tint Wordpress
+Theme URI: http://wordpressorg.ru/business_tint/
+Version: 1.0
+Description: 2 Column theme
+Author: Ashish sharma
+Author URI: http://www.wordpressthemesbox.com/
+*/
+* {
+	margin: 0;
+	padding: 0;
+	}
+body {
+	font-family: "Trebuchet MS", sans-serif;
+	color: #312823;
+	font-size: 13px;
+	line-height:200%;
+	background-color:#eaeaf4;
+	margin:0;
+	padding:0;
+	background-image:url(images/bg-body.jpg);
+	background-position:top;
+	background-repeat:repeat-x;
+	text-align:center;
+	}
+h1, h1 a, h1 a:hover{
+	color:#3d4c58;
+	font-size:28px;
+	font-weight:normal;
+	text-decoration:none;
+	border-bottom:1px solid #e1ded6;
+	line-height:120%;
+	margin-bottom:12px;
+	}
+h2{
+	font-size:20px;
+	color:#fff;
+	background-color:#3d4c58;
+	text-transform:uppercase;
+	font-weight:normal;
+	padding:4px 0 4px 12px;
+	}
+a{
+	color:#3d4c58;
+	text-decoration:underline;
+	}
+a:hover{
+	color:#000;
+	text-decoration:none
+	}
+a img {
+	border:none;
+	}
+#header{
+	width:910px;
+	height:184px;
+	margin:0 auto;
+	padding:0;
+	}
+#logo, #logo a, #logo a:hover {
+	font-size:45px;
+	color:#f5f5f9;
+	line-height:100%;
+	font-weight:normal;
+	float: left;
+	margin-top:20px;
+	border:none;
+	text-decoration:none
+	}
+#searchbox{
+	float:right;
+	margin-top:40px;
+	height:30px;
+	width:280px;
+	}
+.search{
+	height:30px;
+	width:220px;
+	margin-right:8px;
+	font-size:22px;
+	color:#342b26;
+	}
+.navigation{
+	width:910px;
+	height:55px;
+	margin:0 auto;
+	padding:0;
+}
+.navigation ul{
+	padding:O;
+	list-style:none;
+	float:left;
+	clear:both;
+	margin-top:27px;
+}
+.navigation li{
+	color:#221711;
+	display:inline;
+	font-size:18px;
+	margin-left:30px;
+	}
+.navigation li a{
+	color:#221711;
+	text-decoration:none;
+	}
+.navigation li a:hover{
+	color:#3d4c58;
+	text-decoration:none;
+	}
+#img{
+	margin:0 auto;
+	width:928px;
+	height:411px;
+	background-image: url(images/img.jpg);
+	background-repeat:no-repeat;
+	clear:both;
+	}
+#container{
+	width:910px;
+	text-align:right;
+	margin:0 auto;
+	}
+#content{
+	width:600px;
+	background-color:#FFF;
+	float:left;
+	text-align:left;
+	padding:10px;
+	margin-bottom:10px
+	}
+#sidebar{
+	width:270px;
+	float:right;
+	text-align:left;
+	}
+.post{
+	padding-bottom:15px;
+	}
+.post a{
+	color:#3d4c58;
+	text-decoration:underline;
+	}
+.post a:hover{
+	color:#000;
+	text-decoration:none
+	}
+
+#sidebar ul{
+	list-style:none;
+	line-height:220%;
+	padding:0;
+	margin-bottom:10px;
+	background-color:#f5f5f9;
+	}
+#sidebar li{
+	margin-left:13px;
+	border-bottom:1px solid #dcdfe1;
+	}
+#sidebar li a{
+	color:#263248;
+	text-decoration:none;
+	}
+#sidebar li a:hover{
+	color:#000;
+	text-decoration:underline;
+	}
+#footer{
+	clear:both;
+	width:100%;
+	text-align:center;
+	background-color:#141920;
+	height:35px;
+	color:#dce0e8;
+	padding-top:12px;
+	}
+#footer a {
+	color:#dce0e8;
+	text-decoration:underline;
+	}
+#footer a:hover{
+	color:#FFF;
+	}
+.links{
+	height:29px;
+	border:1px solid #dcdfe1;
+	margin-top:12px;
+	margin-bottom:15px;
+	padding-left:10px;
+	padding-right:15px;
+	background-color:#f5f5f9;
+	}
